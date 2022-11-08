@@ -1,1 +1,12 @@
 Hoy realizaremos la ultima practica de git para continuar con python 
+1. Ir al escritorio y crear una carpeta llamada ultimapracticagit
+2. dentro de la carpeta ultimapracticagit abrir visual studio code
+3. en visual studio creamos 2 carpetas llamado informe.txt y conclusion.txt
+4.Escribir en informe.txt escribir: Hoy realizaremos la ultima practica de git para continuar con python
+5. Escribir en Conslucion.txt escribir: Hare un pequeño resumen de lo aprendido en el submodulo
+6. sobre la carpeta ultimapracticagit(escritorio) dar clic derecho y ir a git bash here
+7. inicializar el repositorio
+8. ver el estado del repositorio
+9. adicionar los archivos a git
+10. ver el estado del repositorio
+11 realizar el primer commit "ultima practica con git"

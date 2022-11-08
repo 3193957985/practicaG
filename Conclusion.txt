@@ -1,1 +1,5 @@
 Hare un pequeño resumen de lo aprendido en el submodulo
+el git es un sistema de control de versiones donde nos permite monitorear cambios
+que se realizan en un proyecto. El uso sirve para ver el historial, almacenar código
+y trabajar en equipo.
+Los comandos nos ayuda a entender lo basico de git
